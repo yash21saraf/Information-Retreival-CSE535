@@ -2,7 +2,10 @@
 
 All the projects have been performed as the part of course work for CSE535 Information Retreival. 
 
+-----
 ### PART -1 - Setting up and data cleaning using SOLR for twitter data analysis
+
+-----
 
 #### Implementation Details - 
 
@@ -20,7 +23,10 @@ All the projects have been performed as the part of course work for CSE535 Infor
 - And the fields are defined properly in schema.xml. 
 - After indexing the solr can be queried for different terms. 
 
+-----
 ### PART -2 - Boolean Retrieval - Lucene - Java - Information Retrieval
+
+-----
 
 - Using lucene to read index and create my own boolean query retrieval system. 
 
@@ -44,7 +50,10 @@ All the projects have been performed as the part of course work for CSE535 Infor
 - The input text file should contain all the terms white space seperated. 
 - And queries seperated by a new line character. 
 
+-----
 ### PART -3 - Evaluation of IR models
+
+-----
 
 For the task of Information retrieval many retrieval models are used, for example 
 
