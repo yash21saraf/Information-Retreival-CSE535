@@ -1,0 +1,122 @@
+GetPostings
+feme
+Postings list: 5049 5228 5506 5521 5550 6027 6132 6192 6298 6411 6657 
+GetPostings
+ateint
+Postings list: 5113 5130 5274 5404 5582 5925 6036 6050 6099 6205 6411 
+TaatAnd
+feme ateint 
+Results: 6411 
+Number of documents in results: 1
+Number of comparisons: 26
+TaatOr
+feme ateint 
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657 
+Number of documents in results: 21
+Number of comparisons: 20
+DaatAnd
+feme ateint 
+Results: 6411 
+Number of documents in results: 1
+Number of comparisons: 20
+DaatOr
+feme ateint 
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657 
+Number of documents in results: 21
+Number of comparisons: 20
+GetPostings
+alguë
+Postings list: 5218 
+GetPostings
+accè
+Postings list: 6160 6244 
+GetPostings
+armé
+Postings list: 6350 
+TaatAnd
+alguë accè armé 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 1
+TaatOr
+alguë accè armé 
+Results: 5218 6160 6244 6350 
+Number of documents in results: 4
+Number of comparisons: 4
+DaatAnd
+alguë accè armé 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 2
+DaatOr
+alguë accè armé 
+Results: 5218 6160 6244 6350 
+Number of documents in results: 4
+Number of comparisons: 4
+GetPostings
+upon
+Postings list: 6699 6702 6908 7042 7163 7391 7419 7871 8187 8250 8675 8802 8890 9056 9425 9632 9633 9875 10169 10273 10339 10580 10890 11080 11382 11640 11673 11813 11977 
+GetPostings
+antihistamin
+Postings list: 6831 7091 7163 7257 7642 8002 8078 8197 8380 8601 8861 9141 9145 9921 9922 9943 9969 10846 11094 11396 
+GetPostings
+antiserotonin
+Postings list: 7091 7163 7642 
+GetPostings
+block
+Postings list: 6679 6809 7163 7328 7337 7689 7812 7817 7880 8034 8051 8272 8312 8336 8507 8693 8795 8858 8863 9099 9151 9271 9312 9324 9514 9631 9644 9781 9803 9878 9886 9887 10021 10033 10143 10241 10497 10604 10608 10695 10828 10829 10835 10857 10895 10898 11423 11597 11762 
+GetPostings
+burn
+Postings list: 6775 6881 6963 6972 7163 7574 8093 8094 8095 8105 9812 
+TaatAnd
+upon antihistamin antiserotonin block burn 
+Results: 7163 
+Number of documents in results: 1
+Number of comparisons: 20
+TaatOr
+upon antihistamin antiserotonin block burn 
+Results: 6679 6699 6702 6775 6809 6831 6881 6908 6963 6972 7042 7091 7163 7257 7328 7337 7391 7419 7574 7642 7689 7812 7817 7871 7880 8002 8034 8051 8078 8093 8094 8095 8105 8187 8197 8250 8272 8312 8336 8380 8507 8601 8675 8693 8795 8802 8858 8861 8863 8890 9056 9099 9141 9145 9151 9271 9312 9324 9425 9514 9631 9632 9633 9644 9781 9803 9812 9875 9878 9886 9887 9921 9922 9943 9969 10021 10033 10143 10169 10241 10273 10339 10497 10580 10604 10608 10695 10828 10829 10835 10846 10857 10890 10895 10898 11080 11094 11382 11396 11423 11597 11640 11673 11762 11813 11977 
+Number of documents in results: 106
+Number of comparisons: 189
+DaatAnd
+upon antihistamin antiserotonin block burn 
+Results: 7163 
+Number of documents in results: 1
+Number of comparisons: 80
+DaatOr
+upon antihistamin antiserotonin block burn 
+Results: 6679 6699 6702 6775 6809 6831 6881 6908 6963 6972 7042 7091 7163 7257 7328 7337 7391 7419 7574 7642 7689 7812 7817 7871 7880 8002 8034 8051 8078 8093 8094 8095 8105 8187 8197 8250 8272 8312 8336 8380 8507 8601 8675 8693 8795 8802 8858 8861 8863 8890 9056 9099 9141 9145 9151 9271 9312 9324 9425 9514 9631 9632 9633 9644 9781 9803 9812 9875 9878 9886 9887 9921 9922 9943 9969 10021 10033 10143 10169 10241 10273 10339 10497 10580 10604 10608 10695 10828 10829 10835 10846 10857 10890 10895 10898 11080 11094 11382 11396 11423 11597 11640 11673 11762 11813 11977 
+Number of documents in results: 106
+Number of comparisons: 290
+GetPostings
+burkina
+Postings list: 5760 
+GetPostings
+burkitt
+Postings list: 824 
+GetPostings
+bureau
+Postings list: 6293 
+GetPostings
+buoyant
+Postings list: 9464 10167 11774 
+TaatAnd
+burkina burkitt bureau buoyant 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 1
+TaatOr
+burkina burkitt bureau buoyant 
+Results: 824 5760 6293 9464 10167 11774 
+Number of documents in results: 6
+Number of comparisons: 6
+DaatAnd
+burkina burkitt bureau buoyant 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 3
+DaatOr
+burkina burkitt bureau buoyant 
+Results: 824 5760 6293 9464 10167 11774 
+Number of documents in results: 6
+Number of comparisons: 6
